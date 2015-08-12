@@ -13,17 +13,29 @@ when analyze has been changed accordingly
 Program works on many chess board game websites:
 
 www.playchess.com
+
 www.chessplanet.ru
+
 www.bereg.ru
+
 www.instantchess.com
+
 www.kurnik.org
+
 www.kurnik.pl
+
 www.playok.com
+
 www.chessgate.de
+
 www.spinchat.de
+
 www.superchat.at
+
 www.aby.spinchat.de
+
 www.chessclub.com dasher (Classic Sets - Book)
+
 winboard
 
 and many more.
@@ -39,12 +51,15 @@ are only the exe binaries.
 You may watch the videos:
 
 http://www.cda.pl/video/2256328f?wersja=1080p
+
 https://www.youtube.com/watch?v=jbeqN6zsMSE
+
 https://www.youtube.com/watch?v=YwiwKUeuahY&spfreload=10
 
 You may talk on forums:
 
 http://www.chessgod101.com/t2647-internet-chess-killer
+
 http://www.chessgod101.com/t1762-internetchesskiller-full-pack
 
 ![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.](ick0.png "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.")
