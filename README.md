@@ -36,6 +36,17 @@ That is the only source code available.
 Version above 2, 3, 3.1 DEMO, 3.1 FULL CRACKED 
 are only the exe binaries.
 
+You may watch the videos:
+
+http://www.cda.pl/video/2256328f?wersja=1080p
+https://www.youtube.com/watch?v=jbeqN6zsMSE
+https://www.youtube.com/watch?v=YwiwKUeuahY&spfreload=10
+
+You may talk on forums:
+
+http://www.chessgod101.com/t2647-internet-chess-killer
+http://www.chessgod101.com/t1762-internetchesskiller-full-pack
+
 ![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.](ick0.png "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.")
 
 ![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.](ick1.gif "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.")
