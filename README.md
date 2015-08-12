@@ -12,31 +12,9 @@ when analyze has been changed accordingly
 
 Program works on many chess board game websites:
 
-www.playchess.com
-
-www.chessplanet.ru
-
-www.bereg.ru
-
-www.instantchess.com
-
-www.kurnik.org
-
-www.kurnik.pl
-
-www.playok.com
-
-www.chessgate.de
-
-www.spinchat.de
-
-www.superchat.at
-
-www.aby.spinchat.de
-
-www.chessclub.com dasher (Classic Sets - Book)
-
-winboard
+www.playchess.com --- www.chessplanet.ru --- www.bereg.ru --- www.instantchess.com ---
+www.kurnik.org --- www.kurnik.pl --- www.playok.com --- www.chessgate.de --- www.spinchat.de ---
+www.superchat.at --- www.aby.spinchat.de --- www.chessclub.com dasher (Classic Sets - Book) --- winboard ---
 
 and many more.
 
