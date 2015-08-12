@@ -1,0 +1,3858 @@
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:1, inited:1b1c3,
+board:
+White:
+******_*
+********
+_____*__
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+state changed, new state is:
+len:0, inited:1
+old state is:
+len:1, inited:1b1c3,
+state for go:
+len:0, inited:1
+start go infinite
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+FindPosChanged
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:0, inited:1
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+state changed, new state is:
+len:1, inited:1_d2d4
+old state is:
+len:0, inited:1
+state for go:
+len:1, inited:1_d2d4
+start go infinite
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+state for go:
+len:1, inited:1_d2d4
+start go time white 62588, black 63600
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+tick
+recognized = 1
+extract new state new_state:
+len:1, inited:1_d2d4
+state:
+len:1, inited:1_d2d4
+board:
+White:
+********
+********
+________
+________
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+________
+********
+********
+state for go:
+len:2, inited:1d2d4,g8f6,
+start go time white 64188, black 55703
+tick
+FindPosChanged
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+__*_____
+********
+*_******
+recognized = 1
+extract new state new_state:
+len:2, inited:1d2d4,g8f6,
+state:
+len:2, inited:1d2d4,g8f6,
+board:
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____*__
+********
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:2, inited:1d2d4,g8f6,
+state:
+len:2, inited:1d2d4,g8f6,
+board:
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____*__
+********
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:2, inited:1d2d4,g8f6,
+state:
+len:2, inited:1d2d4,g8f6,
+board:
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____*__
+********
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:2, inited:1d2d4,g8f6,
+state:
+len:2, inited:1d2d4,g8f6,
+board:
+White:
+********
+****_***
+________
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____*__
+********
+******_*
+state for go:
+len:3, inited:1d2d4,g8f6,g1f3,
+start go time white 60510, black 57303
+tick
+FindPosChanged
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+__*_____
+********
+*_******
+recognized = 1
+extract new state new_state:
+len:3, inited:1d2d4,g8f6,g1f3,
+state:
+len:3, inited:1d2d4,g8f6,g1f3,
+board:
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____*__
+********
+******_*
+state for go:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+start go time white 62110, black 57562
+tick
+FindPosChanged
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_**_____
+*_******
+*_******
+recognized = 1
+extract new state new_state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+board:
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+******_*
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+board:
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+******_*
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+state:
+len:4, inited:1d2d4,g8f6,g1f3,g7g6,
+board:
+White:
+*_******
+****_***
+__*_____
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+******_*
+******_*
+state for go:
+len:5, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,
+start go time white 60073, black 59162
+tick
+FindPosChanged
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_**_____
+*_******
+*_******
+recognized = 1
+extract new state new_state:
+len:5, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,
+state:
+len:5, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+******_*
+******_*
+tick
+recognized = 1
+extract new state new_state:
+len:5, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,
+state:
+len:5, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+******_*
+******_*
+state for go:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+start go time white 61673, black 57906
+tick
+FindPosChanged
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_**_____
+********
+*__*****
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+state:
+len:6, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,
+board:
+White:
+*_****_*
+****_***
+__*__*__
+____*___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+state for go:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+start go time white 54619, black 59506
+tick
+FindPosChanged
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_**_____
+********
+*__*****
+recognized = 1
+extract new state new_state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+state:
+len:7, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_____**_
+********
+*****__*
+state for go:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+start go time white 56219, black 55797
+tick
+FindPosChanged
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+____*___
+_**_____
+****_***
+*__*****
+recognized = 1
+extract new state new_state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+FindPosChanged
+White:
+*_****_*
+***__***
+__*__*__
+____*___
+____*___
+________
+________
+________
+Black:
+________
+________
+________
+________
+________
+_**_____
+****_***
+*__*****
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*
+tick
+recognized = 1
+extract new state new_state:
+len:9, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,_e4d5
+state:
+len:8, inited:1d2d4,g8f6,g1f3,g7g6,b1c3,f8g7,e2e4,d7d5,
+board:
+White:
+*_****_*
+***__***
+__*__*__
+___**___
+________
+________
+________
+________
+Black:
+________
+________
+________
+________
+___*____
+_____**_
+***_****
+*****__*

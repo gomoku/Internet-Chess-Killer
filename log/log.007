@@ -1,0 +1,25 @@
+recognized = 1
+extract new state new_state:
+len:0, inited:1
+state:
+len:113, inited:1b1c3,g8f6,d2d4,e7e6,g1f3,b8c6,e2e3,d7d5,f1d3,f8d6,e1g1,e8g8,e3e4,f6e4,c3e4,d5e4,d3e4,c8d7,f1e1,h7h6,c2c3,d8f6,c1e3,f8d8,d1d3,c6a5,f3e5,d6e5,d4e5,f6e7,d3e2,e7h4,e4d3,a5c6,e3c5,b7b6,g2g3,h4h3,c5a3,c6a5,b2b4,a5b7,d3e4,c7c6,a1d1,a7a6,e2e3,b6b5,e3b6,a8b8,b6a7,h3h5,d1d7,d8d7,a7b8,b7d8,a3c1,c6c5,c1e3,c5b4,c3b4,g8h8,g1g2,h8g8,b8c8,h5e5,c8d7,e5e4,f2f3,e4c2,e3f2,d8c6,d7e8,g8h7,e8f7,c6b4,e1e6,b4d5,e6e8,d5f6,e8e7,c2g6,f7g6,h7g6,e7e6,g6f5,e6a6,b5b4,f2d4,h6h5,d4f6,g7f6,a6a5,f5g6,a5b5,g6h6,b5b4,h6g6,a2a4,g6f7,b4e4,f7g6,h2h4,f6f5,a4a5,g6f6,e4e2,f6g6,a5a6,f5f4,a6a7,f4g3,a7a8q,
+board:
+White:
+________
+_*_*____
+__*_____
+*_______
+________
+________
+________
+_______*
+Black:
+________
+________
+______*_
+________
+_______*
+______*_
+________
+________
+tick

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="internetchesskiller_.exe"/>
+    <OBJFILES value="internetchesskiller_.obj main.obj TMainThreadObject.obj process.obj 
+      TEngine.obj parse.obj parameters.obj fruit\board.obj fruit\piece.obj 
+      fruit\attack.obj fruit\my_util.obj fruit\square.obj fruit\vector.obj 
+      fruit\hash.obj fruit\move_do.obj fruit\pawn.obj fruit\value.obj 
+      fruit\move.obj fruit\random.obj fruit\fen.obj fruit\pst.obj 
+      fruit\move_legal.obj fruit\move_gen.obj fruit\list.obj 
+      fruit\move_evasion.obj about.obj engine_param.obj find_pos.obj debug.obj 
+      TBoardCapture.obj ScreenScanerForm.obj TBoardRecognize.obj 
+      SquareViewWindow.obj TUCIInterface.obj TState.obj TPlayer.obj 
+      TimeWindow.obj TDebug.obj RegisterWindow.obj"/>
+    <RESFILES value="internetchesskiller_.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) main.dfm parameters.dfm about.dfm engine_param.dfm debug.dfm 
+      ScreenScanerForm.dfm SquareViewWindow.dfm TimeWindow.dfm RegisterWindow.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="vclx.lib bcbsmp.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib bcbsmp.lib vclx.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi"/>
+    <PATHCPP value=".;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit;fruit"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT;USEPACKAGES"/>
+    <MAINSOURCE value="internetchesskiller_.cpp"/>
+    <INCLUDEPATH value="fruit;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;G:\Program Files\Borland\CBuilder6\Projects&quot;;D:\Chess\ChessAssist;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="fruit;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;G:\Program Files\Borland\CBuilder6\Projects&quot;;D:\Chess\ChessAssist;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-Ifruit -I&quot;C:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -I&quot;G:\Program Files\Borland\CBuilder6\Projects&quot; -ID:\Chess\ChessAssist 
+      -I$(BCB)\include -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG 1 -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -xp -RT- -X- -r- -a8 -6 -b- -k -y 
+      -v -vi- -c -tW -tWM"/>
+    <PFLAGS value="-$Y+ -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj $(PACKAGES) sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="internetchesskiller_.res" FORMNAME="" UNITNAME="internetchesskiller_.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="internetchesskiller_.cpp" FORMNAME="" UNITNAME="internetchesskiller_" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="main.cpp" FORMNAME="MainForm" UNITNAME="main" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TMainThreadObject.cpp" FORMNAME="" UNITNAME="TMainThreadObject" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="process.cpp" FORMNAME="" UNITNAME="process" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TEngine.cpp" FORMNAME="" UNITNAME="TEngine" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="parse.cpp" FORMNAME="" UNITNAME="parse" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="parameters.cpp" FORMNAME="CommonSettingsForm" UNITNAME="parameters" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\board.cpp" FORMNAME="" UNITNAME="board" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\piece.cpp" FORMNAME="" UNITNAME="piece" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\attack.cpp" FORMNAME="" UNITNAME="attack" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\my_util.cpp" FORMNAME="" UNITNAME="my_util" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\square.cpp" FORMNAME="" UNITNAME="square" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\vector.cpp" FORMNAME="" UNITNAME="vector" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\hash.cpp" FORMNAME="" UNITNAME="hash.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\move_do.cpp" FORMNAME="" UNITNAME="move_do.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\pawn.cpp" FORMNAME="" UNITNAME="pawn.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\value.cpp" FORMNAME="" UNITNAME="value.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\move.cpp" FORMNAME="" UNITNAME="move" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\random.cpp" FORMNAME="" UNITNAME="random" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\fen.cpp" FORMNAME="" UNITNAME="fen" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\pst.cpp" FORMNAME="" UNITNAME="pst" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\move_legal.cpp" FORMNAME="" UNITNAME="move_legal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\move_gen.cpp" FORMNAME="" UNITNAME="move_gen" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\list.cpp" FORMNAME="" UNITNAME="list" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="fruit\move_evasion.cpp" FORMNAME="" UNITNAME="move_evasion" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="about.cpp" FORMNAME="AboutForm" UNITNAME="about" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="engine_param.cpp" FORMNAME="EngineParamForm" UNITNAME="engine_param" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="find_pos.cpp" FORMNAME="" UNITNAME="find_pos" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="debug.cpp" FORMNAME="BoardScanerWindow" UNITNAME="debug" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TBoardCapture.cpp" FORMNAME="" UNITNAME="TBoardCapture" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ScreenScanerForm.cpp" FORMNAME="ScreenScanerWindow" UNITNAME="ScreenScanerForm" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TBoardRecognize.cpp" FORMNAME="" UNITNAME="TBoardRecognize" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SquareViewWindow.cpp" FORMNAME="SquareViewForm" UNITNAME="SquareViewWindow" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TUCIInterface.cpp" FORMNAME="" UNITNAME="TUCIInterface" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TState.cpp" FORMNAME="" UNITNAME="TState" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TPlayer.cpp" FORMNAME="" UNITNAME="TPlayer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TimeWindow.cpp" FORMNAME="TimeForm" UNITNAME="TimeWindow" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TDebug.cpp" FORMNAME="" UNITNAME="TDebug" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="RegisterWindow.cpp" FORMNAME="FormRegister" UNITNAME="RegisterWindow" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+c:\program files\borland\cbuilder6\Bin\dclite60.bpl=Borland Integrated Translation Environment
+
+[HistoryLists\hlIncludePath]
+Count=2
+Item0=fruit;C:\Program Files\Borland\CBuilder6\Projects;G:\Program Files\Borland\CBuilder6\Projects;D:\Chess\ChessAssist;$(BCB)\include;$(BCB)\include\vcl
+Item1=C:\Program Files\Borland\CBuilder6\Projects;G:\Program Files\Borland\CBuilder6\Projects;D:\Chess\ChessAssist;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=2
+Item0=fruit;C:\Program Files\Borland\CBuilder6\Projects;G:\Program Files\Borland\CBuilder6\Projects;D:\Chess\ChessAssist;$(BCB)\lib\obj;$(BCB)\lib
+Item1=C:\Program Files\Borland\CBuilder6\Projects;G:\Program Files\Borland\CBuilder6\Projects;D:\Chess\ChessAssist;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=3
+Item0=_DEBUG
+Item1=_DEBUG;DEBUG;UseSlowDebug 1
+Item2=_DEBUG;DEBUG;UseSlowDebug
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+  </IDEOPTIONS>
+</PROJECT>

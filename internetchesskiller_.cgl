@@ -1,0 +1,31 @@
+Functions called:
+ fflush (3 times)
+ delete (14 times)
+ strcmp (536 times)
+ strstr (28 times)
+ atoi (1 times)
+ strchr (32 times)
+ time (1 times)
+ free (8 times)
+ setvbuf (2 times)
+ new (14 times)
+ SysReallocMem (59 times)
+ SysFreeMem (1684 times)
+ lstrlenA (1 times)
+ lstrcpynA (4 times)
+ memset (3 times)
+ SysGetMem (1687 times)
+ calloc (1 times)
+ strlen (79 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (5 times)
+ memcpy (3 times)
+Resource types used:
+ object (14 allocs, 14 max)
+ memory block (1695 allocs, 675 max)
+Modules used:
+ 00400000 10/28/2006 23:00:00
+ D:\Chess\projects\InternetChessKiller\InternetChessKiller\internetchesskiller
+_.exe
+==========================================
