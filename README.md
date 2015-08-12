@@ -1,15 +1,3 @@
-![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.](ick0.png "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.")
-
-![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.](ick1.gif "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.")
-
-![InternetChessKiller](ick2.gif "InternetChessKiller")
-
-![InternetChessKiller](ick3.gif "InternetChessKiller")
-
-![InternetChessKiller](ick4.gif "InternetChessKiller")
-
-![InternetChessKiller](ick5.png "InternetChessKiller")
-
 InternetChessKiller
 
 Program created for automatic use computer chess program
@@ -48,5 +36,16 @@ That is the only source code available.
 Version above 2, 3, 3.1 DEMO, 3.1 FULL CRACKED 
 are only the exe binaries.
 
+![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.](ick0.png "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.")
+
+![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.](ick1.gif "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.")
+
+![InternetChessKiller](ick2.gif "InternetChessKiller")
+
+![InternetChessKiller](ick3.gif "InternetChessKiller")
+
+![InternetChessKiller](ick4.gif "InternetChessKiller")
+
+![InternetChessKiller](ick5.png "InternetChessKiller")
 
 Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.
