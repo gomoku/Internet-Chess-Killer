@@ -40,6 +40,10 @@ http://www.chessgod101.com/t2647-internet-chess-killer
 
 http://www.chessgod101.com/t1762-internetchesskiller-full-pack
 
+http://www.chess2u.com/t4958-internet-chess-killer
+
+http://www.chess2u.com/t6614-internet-chess-destroyer-admax
+
 ![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.](ick0.png "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.")
 
 ![Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.](ick1.gif "Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok.")
