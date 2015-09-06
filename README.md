@@ -56,4 +56,8 @@ http://www.chess2u.com/t6614-internet-chess-destroyer-admax
 
 ![InternetChessKiller](ick5.png "InternetChessKiller")
 
+Also a similiar program to Internet Chess Killer on GitHub: 
+
+https://github.com/marvis/playok
+
 Tags: Chess, AI, Engine, Hack, Bot, Auto, Autoplay, Autoplayer, Artificial Intelligence, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding, Kurnik, Playok, Chess Engine, Cheating.
