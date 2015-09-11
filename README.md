@@ -40,6 +40,8 @@ http://www.chessgod101.com/t2647-internet-chess-killer
 
 http://www.chessgod101.com/t1762-internetchesskiller-full-pack
 
+http://www.chessgod101.com/t3390-internet-chess-killer-2013
+
 http://www.chess2u.com/t4958-internet-chess-killer
 
 http://www.chess2u.com/t6614-internet-chess-destroyer-admax
